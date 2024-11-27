@@ -1,3 +1,7 @@
+# Socket
+./client <stop> <ip> <port>
+./omp-csv -p <port>
+
 Graph500 sequentual and shared-memory reference implementation
 
 See COPYING for the general license.  Portions copyright 2010 by
