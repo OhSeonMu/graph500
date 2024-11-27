@@ -30,6 +30,8 @@ GENERATOR_SRCS=splittable_mrg.c	\
 	make_graph.c utils.c
 
 .PHONY: all
+# TODO : Make client
+# gcc -o client client.c
 
 all: $(BIN)
 
